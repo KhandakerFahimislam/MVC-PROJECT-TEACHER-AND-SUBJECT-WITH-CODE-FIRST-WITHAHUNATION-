@@ -1,0 +1,363 @@
+D:\MVC CORE\Teacher_011\Teacher_011\bin\Teacher_011.dll.config
+D:\MVC CORE\Teacher_011\Teacher_011\bin\Teacher_011.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\Teacher_011.pdb
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\csc.exe
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\csc.exe.config
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\csc.rsp
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\csi.exe
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\csi.exe.config
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\csi.rsp
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.AppContext.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Console.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Globalization.Calendars.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Net.Http.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Net.Sockets.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.ValueTuple.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\vbc.exe
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\vbc.exe.config
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\vbc.rsp
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe
+D:\MVC CORE\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC CORE\Teacher_011\Teacher_011\bin\EntityFramework.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Helpers.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Mvc.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Razor.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Webpages.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\X.PagedList.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\X.PagedList.Mvc.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\X.PagedList.Web.Common.dll
+D:\MVC CORE\Teacher_011\Teacher_011\bin\EntityFramework.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Razor.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Webpages.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Helpers.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\System.Web.Mvc.xml
+D:\MVC CORE\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC CORE\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.AssemblyReference.cache
+D:\MVC CORE\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CoreCompileInputs.cache
+D:\MVC CORE\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CopyComplete
+D:\MVC CORE\Teacher_011\Teacher_011\obj\Debug\Teacher_011.dll
+D:\MVC CORE\Teacher_011\Teacher_011\obj\Debug\Teacher_011.pdb
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Teacher_011.dll.config
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Teacher_011.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Teacher_011.pdb
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\csc.exe
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\csc.exe.config
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\csc.rsp
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\csi.exe
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\csi.exe.config
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\csi.rsp
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Managed.Core.targets
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.AppContext.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Collections.Immutable.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Console.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Globalization.Calendars.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Net.Http.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Net.Sockets.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Reflection.Metadata.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.ValueTuple.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XmlDocument.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\vbc.exe
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\vbc.exe.config
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\vbc.rsp
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe.config
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\EntityFramework.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Web.Infrastructure.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Helpers.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Mvc.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Razor.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Webpages.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\X.PagedList.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\X.PagedList.Mvc.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\X.PagedList.Web.Common.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\EntityFramework.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Razor.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Webpages.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Helpers.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\System.Web.Mvc.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.AssemblyReference.cache
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CoreCompileInputs.cache
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CopyComplete
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\obj\Debug\Teacher_011.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\obj\Debug\Teacher_011.pdb
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.Core.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.Cookies.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Owin.dll
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.Core.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.xml
+E:\R54\MVC_Projects\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Teacher_011.dll.config
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Teacher_011.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Teacher_011.pdb
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Owin.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\X.PagedList.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\X.PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\X.PagedList.Web.Common.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CopyComplete
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.dll
+C:\Users\Admin\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.pdb
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Teacher_011.dll.config
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Teacher_011.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Teacher_011.pdb
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\csc.exe
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\csc.exe.config
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\csc.rsp
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\csi.exe
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\csi.exe.config
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\csi.rsp
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.AppContext.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Console.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\vbc.exe
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\vbc.rsp
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Owin.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Helpers.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Mvc.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Razor.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\X.PagedList.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Razor.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Helpers.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\System.Web.Mvc.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.AssemblyReference.cache
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.csproj.CopyComplete
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.dll
+C:\Users\LAB104-07\Desktop\Teacher_011\Teacher_011\obj\Debug\Teacher_011.pdb

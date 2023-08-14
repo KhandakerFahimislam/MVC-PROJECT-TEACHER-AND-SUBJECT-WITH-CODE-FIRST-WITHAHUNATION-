@@ -1,0 +1,119 @@
+﻿@model Teacher_011.ViewModel.TeacherViewModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="row">
+    <div class="col-12">
+        @using (Html.BeginForm("Create", "Teachers", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+            <h3 class="mb-2">Add new Teacher</h3>
+            @Html.Partial("_TeacherPartial", Model)
+
+            <div class="col-12">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>SubjectName</th>
+                            <th>SubjcetTopic</th>
+                            <th>NumberOfTopic</th>
+                            <th>TeachingAbility</th>
+                            <th>
+                                <button type="submit" class="btn btn-secondary btn-sm" name="act" value="add" formnovalidate>Add</button>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (var i = 0; i < Model.Subjects.Count; i++)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.TextBoxFor(x => Model.Subjects[i].SubjectName, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => Model.Subjects[i].SubjectName, "", new { @class = "text-danger" })
+
+                                </td>
+                                <td>
+                                    @Html.TextBoxFor(x => Model.Subjects[i].SubjcetTopic, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => Model.Subjects[i].SubjcetTopic, "", new { @class = "text-danger" })
+                                </td>
+                                <td>
+                                    @Html.TextBoxFor(x => Model.Subjects[i].NumberOfTopic, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => Model.Subjects[i].NumberOfTopic, "", new { @class = "text-danger" })
+                                </td>
+                                <td>
+                                    @Html.TextBoxFor(x => Model.Subjects[i].TeachingAbility, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => Model.Subjects[i].TeachingAbility, "", new { @class = "text-danger" })
+                                </td>
+                                <th>
+                                    <button type="submit" class="btn btn-secondary btn-sm" name="act" value="remove_@i" formnovalidate>Remove</button>
+                                </th>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-12 text-end">
+                    <button type="submit" class="btn btn-primary" name="act" value="insert">Save to database</button>
+                </div>
+            </div>
+        }
+    </div>
+
+</div>
+
+
+@*<div aria-live="polite" aria-atomic="true" class="d-flex justify-content-center bottom-0 align-items-center w-100">
+        <div class="toast toast-container align-items-center position-absolute bottom-0 start-50 end-0" role="alert"  aria-live="assertive" aria-atomic="false" id="successToast">
+            <div class="d-flex">
+                <div class="toast-body">
+                    Success! Data saved successfully.
+                </div>
+                <button type="button" class="btn-close me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+        </div>
+
+    </div>*@
+@section styles
+{
+    <link href="~/Content/bootstrap-datepicker.standalone.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+}
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.7.0.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    @*<script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>*@
+    <script src="~/Scripts/bootstrap-datepicker.js"></script>
+    <script>
+            //var myToast = bootstrap.Toast.getOrCreateInstance(document.getElementById("successToast"), {
+            //    delay: 3000
+
+            $(() => {
+                $("#BirthDate").datepicker({
+                    format: "yyyy-mm-dd"
+                });
+                $("#BirthDate").val('');
+
+
+            });
+            function onSuccess() {
+
+
+                if ($("#server-task").val() == "insert") {
+                    $('input[type=text]').val('');
+                    $('select').val('');
+                    //myToast.show();
+                    $("#successAlert").show();
+                }
+
+            }
+    </script>
+}
+
+
+

@@ -1,0 +1,118 @@
+﻿@model IEnumerable<Teacher_011.Models.Teacher>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-12">
+        <h3>Employee</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a href="@Url.Action("Create","Teachers")" class="btn btn-primary btn-sm">Create New</a>
+
+        </div>
+        <table class="table table-bordered table-striped">
+            <thead class="table-light">
+                <tr>
+                    <th></th>
+                    <th>Teacher Name</th>
+                    <th>Gender</th>
+                    <th>Birth Date</th>
+                    <th>PreferSubject</th>
+                    <th>Ready To Teach AnySubject?</th>
+                    <th>...</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                @foreach (var a in Model)
+                {
+                    <tr style="vertical-align:middle" id="tr_@a.TeacherId">
+                        <td><img src="~/Pictures/@a.Picture" class="img-thumbnail rounded-circle" style="width:50px" /></td>
+                        <td>@a.TeacherName</td>
+                        <td>@a.Gender</td>
+                        <td>@a.BirthDate</td>
+                        <td>@a.PreferSubject</td>
+                        <td>@(a.IsReadyToTeachAnySubject ? "yes":"No")</td>
+                        <td>
+                            <a href="@Url.Action("Edit","Teachers" ,new {id=a.TeacherId})" class="btn btn-success btn-sm">Edit</a>
+                            <button type="button" href="@Url.Action("Delete","Teachers", new {id=a.TeacherId})" class="btn btn-danger btn-sm del" data-pk="@a.TeacherId">Delete</button>
+
+                        </td>
+                    </tr>
+                    <tr id="trq_@a.TeacherId">
+                        <td></td>
+                        <td colspan="5">
+                            <h4>Subjects</h4>
+                            <table class="table table-bordered">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th>SubjectName</th>
+                                        <th>SubjcetTopic</th>
+                                        <th>NumberOfTopic</th>
+                                        <th>TeachingAbility</th>
+                                    </tr>
+
+                                </thead>
+                                <tbody>
+                                    @foreach (var q in a.Subjects)
+                                    {
+                                        <tr>
+                                            <td>@q.SubjectName</td>
+                                            <td>@q.SubjcetTopic</td>
+                                            <td>@q.NumberOfTopic</td>
+                                            <td>@q.TeachingAbility</td>
+
+                                        </tr>
+
+                                    }
+                                </tbody>
+                            </table>
+
+                        </td>
+
+                    </tr>
+
+                }
+            </tbody>
+
+        </table>
+        <div class="d-flex justify-content-end">
+            @Html.PagedListPager((IPagedList)Model, pg => Url.Action("Index", new { pg = pg }), new PagedListRenderOptions
+       {
+           LiElementClasses = new string[] { "page-item" },
+           PageClasses = new string[] { "page-link" }
+       });
+
+        </div>
+    </div>
+
+</div>
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.7.0.js"></script>
+    <script>
+        $(".del").click(function () {
+            var id = $(this).data("pk");
+            if (confirm("Are You Sure To Delate?\nTeacherWith all Subjects assciated will be deleted")) {
+                console.log(id);
+                $.ajax({
+                    type: "post",
+                    url: `/Teachers/Delete/${id}`,
+                    dataType: "json",
+                    success: r => {
+                        if (r.Success == true) {
+                            $(`#tr_${id}`).remove();
+                            $(`#trq_${id}`).remove();
+                        }
+                    }
+                })
+            }
+        }
+        )
+    </script>
+}
+
+
+
